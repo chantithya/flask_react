@@ -21,3 +21,14 @@
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+
+
+
+# Python virtual environment
+backend/env/
+
+# Python cache files
+backend/__pycache__/
+
+# Flask environment file
+backend/.flaskenv
